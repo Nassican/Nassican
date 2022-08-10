@@ -1,6 +1,6 @@
 ![](https://hit.yhype.me/github/profile?user_id=82602368)
 <img align='left' src='https://raw.githubusercontent.com/Nassican/Nassican/master/skins/assassinscred.gif' width='20%'>  
-<img align='right' src='https://raw.githubusercontent.com/Nassican/Nassican/master/skins/steve.gif' width='25%'>  
+<img align='right' src='https://raw.githubusercontent.com/Nassican/Nassican/master/skins/steve.gif' width='25%' height='50%'>  
 
 # BIO
 CEO on Nassican 
