@@ -3,7 +3,8 @@
 <img align='right' src='https://raw.githubusercontent.com/Nassican/Nassican/master/skins/steve2.gif' width='15%'>  
 
 # BIO
-CEO on Nassican 
+CEO on Nassican
+Jesus David Benavides
 
 🧮 Lover of Matrix, 🔒 Security,  ☁️ Networking, 🌟 Star in progress, 🎮 VideoGames, 💻 FullStack Coming Soon.  
   
