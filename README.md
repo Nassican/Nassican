@@ -3,7 +3,7 @@
 <img align='left' src='https://raw.githubusercontent.com/Nassican/Nassican/master/skins/assassinscred.gif' width='20%'>
 <p><em>Systems Enginner at <a href="http://www.udenar.edu.co">University of Nariño</a></p>
 
-<img align='right' src='https://raw.githubusercontent.com/Nassican/Nassican/master/skins/steve2.gif' width='15%'>
+<img align='right' src='https://raw.githubusercontent.com/Nassican/Nassican/master/skins/enderman.gif' width='15%'>
 
 
 
