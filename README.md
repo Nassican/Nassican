@@ -1,9 +1,8 @@
 ![](https://hit.yhype.me/github/profile?user_id=82602368)
-<h2> Hi, I'm Jesus David Benavides!</h2>
+<h2> Hi, I'm Jesus David Benavides! <img alt="Cat" src="https://raw.githubusercontent.com/Nassican/Nassican/master/skins/cat.gif"/> </h2>
 <img align='left' src='https://raw.githubusercontent.com/Nassican/Nassican/master/skins/assassinscred.gif' width='20%'>
 <p><em>Systems Enginner at <a href="http://www.udenar.edu.co">University of Nariño</a></p>
 
-<img align='right' src='https://raw.githubusercontent.com/Nassican/Nassican/master/skins/enderman.gif' width='15%'>
 
 
 
@@ -39,10 +38,10 @@
     <img src="https://img.shields.io/badge/-@Jesus Benavides-E4405F?style=flat&logo=Instagram&logoColor=white" />
   </a>
 
-# Skills
+<h2> Skills </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nassican" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nassican"  />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nassican&layout=compact&langs_count=8&card_width=320" />
