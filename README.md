@@ -1,5 +1,5 @@
 ![](https://hit.yhype.me/github/profile?user_id=82602368)
-<h2> Hi, I'm Jesus David Benavides! <img alt="Cat" height=30 src="https://tenor.com/es-419/view/bongo-cat-transparent-table-tap-cute-tapping-table-gif-16269826.gif"/> </h2>
+<h2> Hi, I'm Jesus David Benavides! </h2>
 <img align='left' src='https://raw.githubusercontent.com/Nassican/Nassican/master/skins/assassinscred.gif' width='20%'>
 <p><em>Systems Enginner at <a href="http://www.udenar.edu.co">University of Nariño</a></p>
 
@@ -16,7 +16,7 @@
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" /
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/-@Jesus Benavides-E4405F?style=flat&logo=Instagram&logoColor=white" />
   </a>
 </p>
-
+<br>
 <p>
 <h2> Skills </h2>
 
