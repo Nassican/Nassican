@@ -1,5 +1,5 @@
 ![](https://hit.yhype.me/github/profile?user_id=82602368)
-<h2> Hi, I'm Jesus David Benavides! <img alt="Cat" src="https://raw.githubusercontent.com/Nassican/Nassican/master/skins/cat.gif"/> </h2>
+<h2> Hi, I'm Jesus David Benavides! <img alt="Cat" height=30 src="https://tenor.com/es-419/view/bongo-cat-transparent-table-tap-cute-tapping-table-gif-16269826.gif"/> </h2>
 <img align='left' src='https://raw.githubusercontent.com/Nassican/Nassican/master/skins/assassinscred.gif' width='20%'>
 <p><em>Systems Enginner at <a href="http://www.udenar.edu.co">University of Nariño</a></p>
 
@@ -37,7 +37,9 @@
   <a href="https://www.instagram.com/lgsusok/">
     <img src="https://img.shields.io/badge/-@Jesus Benavides-E4405F?style=flat&logo=Instagram&logoColor=white" />
   </a>
+</p>
 
+<p>
 <h2> Skills </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
