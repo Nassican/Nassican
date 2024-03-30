@@ -42,12 +42,18 @@
 <p>
 <h2> Skills </h2>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Nassican"  />
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200  src="https://github-readme-stats.vercel.app/api?username=Nassican"  />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nassican&layout=compact&langs_count=8&card_width=320" />
+<a align="center" href="https://github.com/anuraghazra/convoychat">
+  <img height=200  src="https://github-readme-stats.vercel.app/api/top-langs?username=Nassican&layout=compact&langs_count=8&card_width=320" />
 </a>
 </p>
 
 <img src="https://raw.githubusercontent.com/Nassican/Nassican/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Nassican&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
