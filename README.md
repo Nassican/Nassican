@@ -49,3 +49,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nassican&layout=compact&langs_count=8&card_width=320" />
 </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/Nassican/Nassican/output/snake.svg" alt="Snake animation" />
