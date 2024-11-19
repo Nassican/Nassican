@@ -10,7 +10,9 @@
 <div>
   <h2>👨‍💻 About me</h2>
 
-![Visitors](https://komarev.com/ghpvc/?username=Nassican&color=blue)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Nassican&style=for-the-badge&color=blue" alt="Profile Views"/>
+</p>
 
 > Passionate about technology and software development, constantly learning and growing in the tech world.
 
@@ -60,15 +62,32 @@
 ## 🤝 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/jesusbenavidesmark" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/jesusbenavidesmark" target="_blank" rel="noopener" title="Visita mi perfil de LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0A66C2" />
   </a>
-  <a href="https://twitter.com/nassicand" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/nassicand" target="_blank" rel="noopener" title="Sígueme en Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" />
   </a>
-  <a href="https://www.instagram.com/lgsusok/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/lgsusok/" target="_blank" rel="noopener" title="Sígueme en Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" />
   </a>
 </p>
 
+## 🎯 Recent Activity
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nassican&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nassican&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 🐍 Contribution Graph
+
 ![Snake animation](https://raw.githubusercontent.com/Nassican/Nassican/output/snake.svg)
+
+## 💻 Coding Time
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nassican)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
