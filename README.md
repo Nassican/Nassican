@@ -1,28 +1,31 @@
-![](https://hit.yhype.me/github/profile?user_id=82602368)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nassican/Nassican/master/skins/assassinscred.gif" width="150px" alt="Profile Gif"/>
 
-<h2> Hi, I'm Jesus David Benavides! </h2>
+# ¡Hi! 👋 I'm Jesus David Benavides!
+
+### 💻 Full Stack developer in progress
+
+</div>
+
+<div>
+  <h2>👨‍💻 About me</h2>
 
 ![Visitors](https://komarev.com/ghpvc/?username=Nassican&color=blue)
 
-<table>
-  <tr>
-    <td width="70%">
-      <h2>👨‍💻 About Me</h2>
-      <p>Passionate about:</p>
-      <ul>
-        <li>🧮 <strong>Matrix & Algorithms</strong></li>
-        <li>🔒 <strong>Security</strong></li>
-        <li>☁️ <strong>Networking</strong></li>
-        <li>🌟 <strong>Rising star in tech</strong></li>
-        <li>🎮 <strong>Gaming</strong></li>
-        <li>💻 <strong>FullStack developer in progress</strong></li>
-      </ul>
-    </td>
-    <td width="30%" align="center">
-      <img src="https://raw.githubusercontent.com/Nassican/Nassican/master/skins/assassinscred.gif" width="200px" alt="Profile Gif"/>
-    </td>
-  </tr>
-</table>
+> Passionate about technology and software development, constantly learning and growing in the tech world.
+
+### 🚀 I'm passionate about:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Gaming-5865F2?style=for-the-badge&logo=unity&logoColor=white" alt="Gaming"/>
+  <img src="https://img.shields.io/badge/-FullStack-4CAF50?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="FullStack"/>
+  <img src="https://img.shields.io/badge/-Tech-FF6B6B?style=for-the-badge&logo=dev.to&logoColor=white" alt="Tech"/>
+  <img src="https://img.shields.io/badge/-Algorithms-FF4081?style=for-the-badge&logo=matrix&logoColor=white" alt="Algorithms"/>
+  <img src="https://img.shields.io/badge/-Security-000000?style=for-the-badge&logo=shield&logoColor=white" alt="Security"/>
+  <img src="https://img.shields.io/badge/-Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
+</p>
+
+</div>
 
 ## 🛠️ Tech Stack
 
