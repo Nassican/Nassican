@@ -87,7 +87,11 @@
 
 ## 💻 Coding Time
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nassican)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  
+[![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=Nassican&theme=radical&layout=compact&hide_border=true&custom_title=Coding%20Time%20Weekly)](https://wakatime.com/@Nassican)
+
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
