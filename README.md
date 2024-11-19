@@ -4,26 +4,25 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Nassican&color=blue)
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1; max-width: 60%;">
-    <h2>👨‍💻 About Me</h2>
-    <div align="left">
+<table>
+  <tr>
+    <td width="70%">
+      <h2>👨‍💻 About Me</h2>
       <p>Passionate about:</p>
-      <ul style="list-style: none; padding-left: 0;">
-        <li style="margin: 8px 0;">🧮 <strong>Matrix & Algorithms</strong></li>
-        <li style="margin: 8px 0;">🔒 <strong>Security</strong></li>
-        <li style="margin: 8px 0;">☁️ <strong>Networking</strong></li>
-        <li style="margin: 8px 0;">🌟 <strong>Rising star in tech</strong></li>
-        <li style="margin: 8px 0;">🎮 <strong>Gaming</strong></li>
-        <li style="margin: 8px 0;">💻 <strong>FullStack developer in progress</strong></li>
+      <ul>
+        <li>🧮 <strong>Matrix & Algorithms</strong></li>
+        <li>🔒 <strong>Security</strong></li>
+        <li>☁️ <strong>Networking</strong></li>
+        <li>🌟 <strong>Rising star in tech</strong></li>
+        <li>🎮 <strong>Gaming</strong></li>
+        <li>💻 <strong>FullStack developer in progress</strong></li>
       </ul>
-    </div>
-  </div>
-  <div style="flex: 0 0 auto; margin-left: 20px;">
-    <img src='https://raw.githubusercontent.com/Nassican/Nassican/master/skins/assassinscred.gif' width='200px' alt="Profile Gif"/>
-  </div>
-  
-</div>
+    </td>
+    <td width="30%" align="center">
+      <img src="https://raw.githubusercontent.com/Nassican/Nassican/master/skins/assassinscred.gif" width="200px" alt="Profile Gif"/>
+    </td>
+  </tr>
+</table>
 
 ## 🛠️ Tech Stack
 
