@@ -16,7 +16,7 @@
 
 > Dedicated about technology and software development, constantly learning and growing in the tech world.
 
-### 🚀 I'm highly motivated by:
+## 🚀 I'm highly motivated by:
 
 <p align="left">
   <img src="https://img.shields.io/badge/-Gaming-5865F2?style=for-the-badge&logo=unity&logoColor=white" alt="Gaming"/>
