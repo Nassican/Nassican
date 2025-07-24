@@ -3,7 +3,7 @@
 
 # ¡Hi! 👋 I'm Jesus David Benavides!
 
-### 💻 Full Stack developer in progress
+### 💻 Full Stack Developer
 
 </div>
 
