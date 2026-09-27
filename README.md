@@ -1,97 +1,99 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nassican/Nassican/master/skins/assassinscred.gif" width="150px" alt="Profile Gif"/>
 
-# ¡Hi! 👋 I'm Jesus David Benavides!
+<img src="https://raw.githubusercontent.com/Nassican/Nassican/master/skins/assassinscred.gif" width="150" alt="Animated profile banner"/>
 
-### 💻 Full Stack Developer
+# Hi! 👋 I'm Jesús David Benavides
+
+### Full Stack Developer · Systems Engineer
+
+<p>
+  <a href="https://www.linkedin.com/in/jesusbenavidesmark" target="_blank" rel="noopener" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/nassicand" target="_blank" rel="noopener" title="X (Twitter)">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.instagram.com/lgsusok/" target="_blank" rel="noopener" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Nassican&style=flat-square&color=blue&label=Profile+views" alt="Profile views"/>
 
 </div>
 
-<div>
-  <h2>👨‍💻 About me</h2>
+---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Nassican&style=for-the-badge&color=blue" alt="Profile Views"/>
-</p>
+## 🛠️ Tech stack
 
-> Dedicated about technology and software development, constantly learning and growing in the tech world.
+**Languages**
 
-## 🚀 I'm highly motivated by:
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Gaming-5865F2?style=for-the-badge&logo=unity&logoColor=white" alt="Gaming"/>
-  <img src="https://img.shields.io/badge/-FullStack-4CAF50?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="FullStack"/>
-  <img src="https://img.shields.io/badge/-Tech-FF6B6B?style=for-the-badge&logo=dev.to&logoColor=white" alt="Tech"/>
-  <img src="https://img.shields.io/badge/-Algorithms-FF4081?style=for-the-badge&logo=matrix&logoColor=white" alt="Algorithms"/>
-  <img src="https://img.shields.io/badge/-Security-000000?style=for-the-badge&logo=shield&logoColor=white" alt="Security"/>
-  <img src="https://img.shields.io/badge/-Networking-0078D4?style=for-the-badge&logo=cisco&logoColor=white" alt="Networking"/>
-</p>
-
-</div>
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+**Frontend**
+
+<p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+**Backend & databases**
+
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
+  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
+**DevOps & tools**
+
+<p>
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
+</p>
+
+## 📊 GitHub stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nassican&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nassican&layout=compact&langs_count=7&theme=radical"/>
-  <img src="https://streak-stats.demolab.com?user=Nassican&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="170" src="./profile/stats.svg" alt="GitHub stats"/>
+  <img height="170" src="./profile/top-langs.svg" alt="Top languages"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Nassican&theme=radical&hide_border=true" alt="GitHub streak"/>
 </div>
 
-## 🤝 Connect with me
+## 📈 Recent activity
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/jesusbenavidesmark" target="_blank" rel="noopener" title="Visita mi perfil de LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0A66C2" />
-  </a>
-  <a href="https://twitter.com/nassicand" target="_blank" rel="noopener" title="Sígueme en Twitter">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" />
-  </a>
-  <a href="https://www.instagram.com/lgsusok/" target="_blank" rel="noopener" title="Sígueme en Instagram">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&color=E4405F" />
-  </a>
-</p>
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nassican&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-## 🎯 Recent Activity
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nassican&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Nassican&theme=radical&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://raw.githubusercontent.com/Nassican/Nassican/output/snake.svg)
-
-## 💻 Coding Time
+## 💻 Coding time
 
 <div align="center">
-  
-[![Coding Time](https://github-readme-stats.vercel.app/api/wakatime?username=Nassican&theme=radical&layout=compact&hide_border=true&custom_title=Coding%20Time%20Weekly)](https://wakatime.com/@Nassican)
+
+[![WakaTime weekly stats](./profile/wakatime.svg)](https://wakatime.com/@Nassican)
 
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+## 🐍 Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nassican/Nassican/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nassican/Nassican/output/snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Nassican/Nassican/output/snake.svg" />
+</picture>
+
+<div align="center">
+
+<sub>Thanks for stopping by! Feel free to reach out.</sub>
+
+</div>
