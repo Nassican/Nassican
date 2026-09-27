@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Nassican/Nassican/master/skins/assassinscred.gif" width="150" alt="Animated profile banner"/>
+<img src="./skins/assassinscred.gif" width="150" alt="Animated profile banner"/>
 
 # Hi! 👋 I'm Jesús David Benavides
 
@@ -72,9 +72,13 @@
   <img src="https://streak-stats.demolab.com?user=Nassican&theme=radical&hide_border=true" alt="GitHub streak"/>
 </div>
 
-## 📈 Recent activity
+## 📈 Activity
 
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nassican&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Contribution activity" width="100%"/>
+  <br/>
+  <img height="180" src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Commits by time of day"/>
+</div>
 
 ## 💻 Coding time
 
@@ -91,9 +95,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nassican/Nassican/output/snake.svg" />
   <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Nassican/Nassican/output/snake.svg" />
 </picture>
-
-<div align="center">
-
-<sub>Thanks for stopping by! Feel free to reach out.</sub>
-
-</div>
