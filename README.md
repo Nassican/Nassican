@@ -66,26 +66,50 @@
 ## 📊 GitHub stats
 
 <div align="center">
-  <img height="170" src="./profile/stats.svg" alt="GitHub stats"/>
-  <img height="170" src="./profile/top-langs.svg" alt="Top languages"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
+    <img height="170" src="./profile/stats-light.svg" alt="GitHub stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
+    <img height="170" src="./profile/top-langs-light.svg" alt="Top languages"/>
+  </picture>
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Nassican&theme=radical&hide_border=true" alt="GitHub streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Nassican&hide_border=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Nassican&hide_border=true&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=Nassican&hide_border=true&theme=default" alt="GitHub streak"/>
+  </picture>
 </div>
 
 ## 📈 Activity
 
 <div align="center">
-  <img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="Contribution activity" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/radical/0-profile-details.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/0-profile-details.svg" />
+    <img width="100%" src="./profile-summary-card-output/default/0-profile-details.svg" alt="Contribution activity"/>
+  </picture>
   <br/>
-  <img height="180" src="./profile-summary-card-output/radical/4-productive-time.svg" alt="Commits by time of day"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/radical/4-productive-time.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-summary-card-output/default/4-productive-time.svg" />
+    <img height="180" src="./profile-summary-card-output/default/4-productive-time.svg" alt="Commits by time of day"/>
+  </picture>
 </div>
 
 ## 💻 Coding time
 
 <div align="center">
-
-[![WakaTime weekly stats](./profile/wakatime.svg)](https://wakatime.com/@Nassican)
-
+  <a href="https://wakatime.com/@Nassican">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/wakatime-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile/wakatime-light.svg" />
+    <img src="./profile/wakatime-light.svg" alt="WakaTime weekly stats"/>
+  </picture>
+  </a>
 </div>
 
 ## 🐍 Contribution snake
