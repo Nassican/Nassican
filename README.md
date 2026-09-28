@@ -67,14 +67,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg" />
-    <img height="170" src="./profile/stats-light.svg" alt="GitHub stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Nassican&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Nassican&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=Nassican&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=default" alt="GitHub stats"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg" />
-    <img height="170" src="./profile/top-langs-light.svg" alt="Top languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Nassican&layout=compact&langs_count=7&hide_border=true&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Nassican&layout=compact&langs_count=7&hide_border=true&theme=default" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nassican&layout=compact&langs_count=7&hide_border=true&theme=default" alt="Top languages"/>
   </picture>
   <br/>
   <picture>
@@ -82,6 +82,18 @@
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Nassican&hide_border=true&theme=default" />
     <img src="https://streak-stats.demolab.com?user=Nassican&hide_border=true&theme=default" alt="GitHub streak"/>
   </picture>
+</div>
+
+## 🏆 GitHub trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://trophy.ryglcloud.net/?username=Nassican&row=1&column=6&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://trophy.ryglcloud.net/?username=Nassican&row=1&column=6" />
+    <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Nassican&row=1&column=6" alt="GitHub trophies"/>
+  </picture>
+  </a>
 </div>
 
 ## 📈 Activity
@@ -105,9 +117,9 @@
 <div align="center">
   <a href="https://wakatime.com/@Nassican">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile/wakatime-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile/wakatime-light.svg" />
-    <img src="./profile/wakatime-light.svg" alt="WakaTime weekly stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=Nassican&layout=compact&hide_border=true&custom_title=Coding%20Time%20Weekly&theme=radical" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/wakatime?username=Nassican&layout=compact&hide_border=true&custom_title=Coding%20Time%20Weekly&theme=default" />
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=Nassican&layout=compact&hide_border=true&custom_title=Coding%20Time%20Weekly&theme=default" alt="WakaTime weekly stats"/>
   </picture>
   </a>
 </div>
